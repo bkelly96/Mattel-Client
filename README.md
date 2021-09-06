@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+For this application we will have 3 Components: Login - For the user to login in, either Requester or Reviewer. Submit - The page for Requesters to make a Business Justification for a request Review-Request - Allow Employees to review requests and approve or deny.
+
