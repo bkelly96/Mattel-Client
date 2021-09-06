@@ -1,0 +1,1 @@
+For this application we will have 3 Components: Login - For the user to login in, either Requester or Reviewer. Submit - The page for Requesters to make a Business Justification for a request Review-Request - Allow Employees to review requests and approve or deny.
